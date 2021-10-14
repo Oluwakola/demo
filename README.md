@@ -1,2 +1,2 @@
-# yaml
-# demo
+
+# argocd demo
